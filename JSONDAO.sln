@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONDAO", "JSONDAO.csproj", "{234AB7A1-917B-45A9-99E6-AE27A24535AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDeDados", "BancoDeDados\BancoDeDados.csproj", "{FDA462B0-7C96-49F6-8D51-3568DFE44FF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{40F3B32A-3782-433F-BC53-15BA5076ED8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234AB7A1-917B-45A9-99E6-AE27A24535AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234AB7A1-917B-45A9-99E6-AE27A24535AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234AB7A1-917B-45A9-99E6-AE27A24535AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234AB7A1-917B-45A9-99E6-AE27A24535AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA462B0-7C96-49F6-8D51-3568DFE44FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA462B0-7C96-49F6-8D51-3568DFE44FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA462B0-7C96-49F6-8D51-3568DFE44FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA462B0-7C96-49F6-8D51-3568DFE44FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F3B32A-3782-433F-BC53-15BA5076ED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F3B32A-3782-433F-BC53-15BA5076ED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F3B32A-3782-433F-BC53-15BA5076ED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F3B32A-3782-433F-BC53-15BA5076ED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF7E9B5-87D2-4854-91AA-099FB97C1914}
+	EndGlobalSection
+EndGlobal
